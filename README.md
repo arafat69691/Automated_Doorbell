@@ -1,2 +1,10 @@
-# Automated_Doorbell
-This project demonstrates a basic AI-powered doorbell system built with Python. Using a webcam, it detects human faces in real time and plays a doorbell sound when a person appears in front of the camera. It combines face recognition, threading, and media playback to simulate the functionality of a smart doorbell system.
+# AI Doorbell 🔔
+
+এই প্রোজেক্ট OpenCV, face_recognition এবং pygame ব্যবহার করে একটি স্মার্ট ডোরবেল তৈরি করে, যা মুখ চিনতে পারলেই বেল বাজে।
+
+## ইনস্টলেশন
+
+প্রথমে প্রয়োজনীয় প্যাকেজগুলো ইন্সটল করুন:
+
+```bash
+pip install -r requirements.txt
